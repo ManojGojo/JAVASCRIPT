@@ -33,7 +33,7 @@ project-name/
 
 Clone the repository:
 
-git clone https://github.com/your-username/repository-name.git
+git clone https://github.com/ManojGojo/JAVASCRIPT
 
 
 Navigate to the project directory:
